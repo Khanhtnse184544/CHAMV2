@@ -1,0 +1,11 @@
+﻿{
+    "userId": "U111",
+    "username": "string",
+    "password": "string",
+    "email": "string",
+    "memberTypeId": "string",
+    "level": 0,
+    "expPerLevel": 50,
+    "coin": 100,
+    "status": "string"
+}
